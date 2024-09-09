@@ -3,6 +3,8 @@
 
 import React, { useEffect, useState } from 'react';
 import ListingCard from './components/ListingCard';
+import HeaderCard from './components/Header'
+import FooterCard from './components/Footer'
 import { fetchListings } from './lib/api';
 
 interface Listing {
@@ -36,11 +38,12 @@ const Home: React.FC = () => {
   }, []);
 
   return (
-    <div style={{ padding: '20px' }}>
-      <h1>Product</h1>
+    <div style={{ padding: '20px', background: "gray"}}>
+      <HeaderCard/>
       {listings.map((listing) => (
         <ListingCard key={listing._id} listing={listing} />
       ))}
+    <><FooterCard/></>
     </div>
   );
 };
