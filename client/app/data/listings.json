@@ -1,0 +1,127 @@
+[
+  {
+    "_id": "10228731",
+    "name": "Quarto inteiro na Tijuca",
+    "summary": "O quarto disponível tem uma cama de solteiro, sofá e computador tipo desktop para acomodação.",
+    "space": "O apartamento e bastante arejado e ventilado, em local de fácil acesso via metrô",
+    "amenities": [
+      "Internet",
+      "Wifi",
+      "Kitchen",
+      "Free parking on premises",
+      "Family/kid friendly",
+      "Washer"
+    ],
+    "images": {
+      "picture_url": "https://a0.muscache.com/im/pictures/de6ab94d-9bcb-4f57-80f6-388aeaaa89c6.jpg?aki_policy=large"
+    },
+    "price": { "$numberDecimal": "149.00" },
+    "accommodates": { "$numberInt": "1" },
+    "bedrooms": { "$numberInt": "1" },
+    "bathrooms": { "$numberDecimal": "2.0" }
+  },
+  {
+    "_id": "10109896",
+    "listing_url": "https://www.airbnb.com/rooms/10109896",
+    "name": "THE Place to See Sydney's FIREWORKS",
+    "summary": "The ultimate way to experience Sydney Harbour; fireworks, the bridge, and the proximity to the city means you can experience everything this city has to offer.  Tucked into the Balmain Peninsula, you're close to parks, pubs, shops, buses, and more!",
+    "space": "An entertainer's retreat!!  Views of the Sydney Harbour are unparalleled, the house is spacious and modern, the neighbourhood is friendly.  Your bedroom opens out onto a grassy backyard with views of the city and features your own en suite bathroom with shower.",
+    "description": "The ultimate way to experience Sydney Harbour; fireworks, the bridge, and the proximity to the city means you can experience everything this city has to offer.  Tucked into the Balmain Peninsula, you're close to parks, pubs, shops, buses, and more! An entertainer's retreat!!  Views of the Sydney Harbour are unparalleled, the house is spacious and modern, the neighbourhood is friendly.  Your bedroom opens out onto a grassy backyard with views of the city and features your own en suite bathroom with shower. You'll access all areas except the master bedroom and spare bedrooms, this means the guest room with en suite, garden, kitchen, living, laundry, pantry, and powder room are all yours. We're just a phone call away to assist you with any questions or features of the house, there are many! We're 5 minutes from the bus stops (to the city or to the Balmain East ferry), 4 minutes to a park with tennis courts, and 2 minutes to an iconic Balmain pub, the Bald Rock Hotel.  The grocery store, b",
+    "neighborhood_overview": "We're 5 minutes from the bus stops (to the city or to the Balmain East ferry), 4 minutes to a park with tennis courts, and 2 minutes to an iconic Balmain pub, the Bald Rock Hotel.  The grocery store, bottle shops, and Darling St boutiques/shops are about 10-15 minutes walk depending on how fast you move :)",
+    "notes": "We live with our stud dog, and our son; we won't be here during your stay, but if you're allergic to dogs or babies, best to pick another place. :)",
+    "transit": "Parking is available on the street in front or behind the house.  Buses come every few minutes, in less than 15 minutes you're in the heart of Sydney (QVB in CBD), or take one in the opposite direction and you can hop on a ferry from Balmain East wharf to Circular Quay or Darling Harbour, and experience all the sites Sydney has to offer (Opera House, Luna Park, Barangaroo, Milson's Point, etc.)",
+    "access": "You'll access all areas except the master bedroom and spare bedrooms, this means the guest room with en suite, garden, kitchen, living, laundry, pantry, and powder room are all yours.",
+    "interaction": "We're just a phone call away to assist you with any questions or features of the house, there are many!",
+    "house_rules": "Treat our home in the way you'd expect yours to be looked after.  Be courteous of our neighbours, and our belongings; they may be material but they hold lots of memories for us.  This is our home, not a hotel, please treat it as such.  Rest assured we are in hospitality so you'll be taken care of as best we know how!",
+    "property_type": "House",
+    "room_type": "Entire home/apt",
+    "bed_type": "Real Bed",
+    "minimum_nights": "2",
+    "maximum_nights": "1125",
+    "cancellation_policy": "moderate",
+    "last_scraped": { "$date": { "$numberLong": "1551934800000" } },
+    "calendar_last_scraped": { "$date": { "$numberLong": "1551934800000" } },
+    "accommodates": { "$numberInt": "2" },
+    "bedrooms": { "$numberInt": "1" },
+    "beds": { "$numberInt": "1" },
+    "number_of_reviews": { "$numberInt": "0" },
+    "bathrooms": { "$numberDecimal": "2.5" },
+    "amenities": [
+      "TV",
+      "Cable TV",
+      "Wifi",
+      "Air conditioning",
+      "Kitchen",
+      "Buzzer/wireless intercom",
+      "Heating",
+      "Family/kid friendly",
+      "Washer",
+      "Dryer",
+      "Smoke detector",
+      "Essentials",
+      "Shampoo",
+      "Hangers",
+      "Hair dryer",
+      "Iron",
+      "Laptop friendly workspace"
+    ],
+    "price": { "$numberDecimal": "250.00" },
+    "security_deposit": { "$numberDecimal": "400.00" },
+    "cleaning_fee": { "$numberDecimal": "150.00" },
+    "extra_people": { "$numberDecimal": "0.00" },
+    "guests_included": { "$numberDecimal": "1" },
+    "images": {
+      "thumbnail_url": "",
+      "medium_url": "",
+      "picture_url": "https://a0.muscache.com/im/pictures/aca46512-3f26-432e-8114-e13fa5707217.jpg?aki_policy=large",
+      "xl_picture_url": ""
+    },
+    "host": {
+      "host_id": "6517277",
+      "host_url": "https://www.airbnb.com/users/show/6517277",
+      "host_name": "Kristin",
+      "host_location": "Sydney, New South Wales, Australia",
+      "host_about": "",
+      "host_thumbnail_url": "https://a0.muscache.com/im/pictures/a304162e-015b-4e94-a891-84c4355fad39.jpg?aki_policy=profile_small",
+      "host_picture_url": "https://a0.muscache.com/im/pictures/a304162e-015b-4e94-a891-84c4355fad39.jpg?aki_policy=profile_x_medium",
+      "host_neighbourhood": "Lilyfield/Rozelle",
+      "host_is_superhost": false,
+      "host_has_profile_pic": true,
+      "host_identity_verified": false,
+      "host_listings_count": { "$numberInt": "1" },
+      "host_total_listings_count": { "$numberInt": "1" },
+      "host_verifications": [
+        "email",
+        "phone",
+        "reviews",
+        "jumio",
+        "offline_government_id",
+        "government_id"
+      ]
+    },
+    "address": {
+      "street": "Rozelle, NSW, Australia",
+      "suburb": "Lilyfield/Rozelle",
+      "government_area": "Leichhardt",
+      "market": "Sydney",
+      "country": "Australia",
+      "country_code": "AU",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          { "$numberDouble": "151.17956" },
+          { "$numberDouble": "-33.86296" }
+        ],
+        "is_location_exact": true
+      }
+    },
+    "availability": {
+      "availability_30": { "$numberInt": "0" },
+      "availability_60": { "$numberInt": "0" },
+      "availability_90": { "$numberInt": "0" },
+      "availability_365": { "$numberInt": "0" }
+    },
+    "review_scores": {},
+    "reviews": []
+  }
+]
