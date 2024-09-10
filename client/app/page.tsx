@@ -5,7 +5,7 @@ import React, { useEffect, useState } from 'react';
 import ListingCard from './components/ListingCard';
 import HeaderCard from './components/Header'
 import FooterCard from './components/Footer'
-import { fetchListings } from './lib/api';
+import { fetchListings } from './lib/productApi';
 
 interface Listing {
   _id: string;
